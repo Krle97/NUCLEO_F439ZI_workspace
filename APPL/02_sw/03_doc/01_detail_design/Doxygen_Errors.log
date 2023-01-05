@@ -1,0 +1,7 @@
+error: When enabling GENERATE_HTMLHELP the SEARCHENGINE option should be disabled. I'll adjust it for you.
+error: When enabling GENERATE_HTMLHELP the HTML_DYNAMIC_MENUS option should be disabled. I'll adjust it for you.
+error: When enabling 'GENERATE_HTMLHELP' the 'HTML_COLORSTYLE' option should be either 'LIGHT' or 'DARK' but has value 'AUTO_LIGHT'. I'll adjust it for you to 'LIGHT'.
+C:/Users/igork/OneDrive/Documents/GIT/NUCLEO_F439ZI_workspace/NUCLEO_F439ZI_workspace/APPL/02_sw/02_src/LEDM/src/LEDM.h:8: warning: LEDM_v_Main has @param documentation sections but no arguments
+C:/Users/igork/OneDrive/Documents/GIT/NUCLEO_F439ZI_workspace/NUCLEO_F439ZI_workspace/APPL/02_sw/02_src/LEDM/src/LEDM.h:8: warning: found documented return type for LEDM_v_Main that does not return anything
+C:/Users/igork/OneDrive/Documents/GIT/NUCLEO_F439ZI_workspace/NUCLEO_F439ZI_workspace/APPL/02_sw/02_src/LEDM/src/LEDM.h:8: warning: LEDM_v_Main has @param documentation sections but no arguments
+C:/Users/igork/OneDrive/Documents/GIT/NUCLEO_F439ZI_workspace/NUCLEO_F439ZI_workspace/APPL/02_sw/02_src/LEDM/src/LEDM.h:8: warning: found documented return type for LEDM_v_Main that does not return anything

@@ -1,5 +1,3 @@
-/// COMPANY: Continental Automotive
-/// COMPONENT: LEDM
 /// @file LEDM.c
 /// @brief Main file used for LED manipulation
 /// @author Igor Krstic
